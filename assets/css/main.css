@@ -227,7 +227,7 @@ input, select, textarea {
 	/* Set your background with this */
 
 		background: #4E7584 url("images/bg.jpg") bottom left;
-		background-repeat: no-repeat;
+		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
 		opacity: 1;
